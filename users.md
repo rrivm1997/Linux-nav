@@ -1,4 +1,4 @@
-# adduser && userdel
+# How to add and delete user in Linux
 
 ## Add A New User Account to User Group
 
